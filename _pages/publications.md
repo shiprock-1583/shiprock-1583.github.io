@@ -3,8 +3,8 @@ layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
-header:
-  image: header_tall.png
+footer:
+  overlay_image: header.png
 ---
 
 {% include base_path %}
