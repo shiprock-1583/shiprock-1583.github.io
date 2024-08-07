@@ -22,10 +22,10 @@ repository               : "shiprock-1583/shiprock-1583.github.io"
 author:
   # Biographic information
   avatar           : "84143269.jpg"
-  name             : "Tarun"
-  pronouns         : # example: "she/her"  
+  name             : "Tarun Verma"
+  pronouns         : "Ph.D."  
   bio              : "Weather, Climate, Numerical Modeling, Machine Learning"
-  location         : "Earth"
+  location         : "Baltimore, MD"
   employer         : "Princeton University"
   uri              : # URL
   email            : "tarunverma.geos[at]gmail[dot]com" 
