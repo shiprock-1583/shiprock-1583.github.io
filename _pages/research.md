@@ -2,8 +2,8 @@
 permalink: /research/
 title: "Research"
 author_profile: true
-redirect_from: 
- 
+redirect_from:
+  - /research/
 ---
 
 <span style="font-size:0.85em;"> At **Princeton**, I work on an industry-funded multi-institutional project to reduce biases at the ocean-atmosphere interface in climate models by leveraging observations and machine learning methods. We identify and model the systematic errors that arise from missing and inaccurate subgrid-scale parameterizations in an ocean general circulation model (GCM). The subgrid-scale errors are extracted as daily data assimilation increments from the GFDL's SPEAR-ODA system (Seamless System for Prediction and EArth System Research-Ocean Data Assimilation), which assimilates observed sea surface temperature and vertical profiles of temperature and salinity from the Argo dataset. The deep learning models are then trained to learn the nonlinear and low dimensional mapping between the ocean state and the data assimilation increments, thus parameterizing ocean model errors from local stratification, shear, and surface fluxes. The resulting deep-learned models are evaluated and interpreted by examining the relative importance of each predictor. These state-dependent neural networks form the basis for correcting systematic small-scale physical errors in an ocean GCM and can be used to improve the ocean model structure. The manuscript summarizing the technique, predictions, improvements over standard benchmarks, and interpretation is being prepared to be submitted shortly. </span>
