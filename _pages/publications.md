@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 header:
-  overlay_image: "profile.png"
+  overlay_image: "header.png"
 ---
 
 {% include base_path %}
