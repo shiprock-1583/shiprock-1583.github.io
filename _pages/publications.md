@@ -11,9 +11,11 @@ header:
 
 See my [Google Scholar](https://scholar.google.com/citations?user=axe4WfMAAAAJ&hl=en&oi=ao) page and [CV](https://shiprock-1583.github.io/files/CV.pdf) for more information.
 
-Verma, Tarun, W. Weijer, T. Haine, M. Veneziani, W. Kim, J. Zhang (2024): Role of ocean circulation changes in the recent increase of Arctic liquid freshwater content, Under review in Journal of Climate.
+Verma, Tarun, W. Weijer, T. Haine, M. Veneziani, W. Kim, J. Zhang (2024). "Role of ocean circulation changes in the recent increase of Arctic liquid freshwater content.", Under review in Journal of Climate.
 
 Kurtakoti, Prajvala, W. Weijer, M. Veneziani,, P. J. Rasch, T. Verma, (2024). "Sea ice and Cloud Processes Mediating Compensation between Atmospheric and Oceanic Meridional Heat Transports across the CMIP6 Preindustrial Control Experiment.", Journal of Climate, [https://doi.org/10.1175/JCLI-D-23-0103.1](https://doi.org/10.1175/JCLI-D-23-0103.1) 
+
+D Balwada, R Abernathey, S Acharya et al. (2023). "Learning Machine Learning with Lorenz-96." Under review. [preprint](https://d197for5662m48.cloudfront.net/documents/publicationstatus/182343/preprint_pdf/043b7b88437a3e6904fd291d3a6e5f40.pdf)
 
 Zhang, Jiaxu, W. Weijer, M. Steele, W. Cheng, T. Verma, M. Veneziani (2021). "Labrador Sea freshening linked to Beaufort Gyre freshwater release", Nature Comm., [https://doi.org/10.1038/s41467-021-21470-3](https://doi.org/10.1038/s41467-021-21470-3)
 
