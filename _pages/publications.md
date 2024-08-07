@@ -3,14 +3,12 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+header:
+  overlay_image: "profile.png"
 ---
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+See my [Google Scholar](https://scholar.google.com/citations?user=axe4WfMAAAAJ&hl=en&oi=ao) page.
+
+Verma, Tarun, R. Saravanan, P. Chang, S. Mahajan (2019). "Tropical Pacific ocean dynamical response to short-term sulfate aerosol forcing.", Journal of Climate, [https://doi.org/10.1175/JCLI-D-19-0050.1](https://doi.org/10.1175/JCLI-D-19-0050.1)
