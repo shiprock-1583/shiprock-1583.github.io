@@ -9,7 +9,7 @@ author_profile: true
 
 <span style="font-size:0.85em;"> See my [Google Scholar](https://scholar.google.com/citations?user=axe4WfMAAAAJ&hl=en&oi=ao) page and [CV](https://shiprock-1583.github.io/files/CV.pdf) for more information.</span> 
 
-<span style="font-size:0.85em;"> Verma, Tarun, W. Weijer, T. Haine, M. Veneziani, W. Kim, J. Zhang (2024). "Role of ocean circulation changes in the recent increase of Arctic liquid freshwater content.", *Under review in Journal of Climate*. </span> 
+<span style="font-size:0.85em;"> Verma, Tarun, W. Weijer, T. Haine, M. Veneziani, W. Kim, J. Zhang (2024). "Role of ocean circulation changes in the recent increase of Arctic liquid freshwater content.", *Under review in Journal of Climate*. Preprint [[DOI](https://doi.org/10.22541/essoar.172313451.18013979/v1)]. </span> 
 
 <span style="font-size:0.85em;"> Kurtakoti, Prajvala, W. Weijer, M. Veneziani,, P. J. Rasch, T. Verma, (2024). "Sea ice and Cloud Processes Mediating Compensation between Atmospheric and Oceanic Meridional Heat Transports across the CMIP6 Preindustrial Control Experiment.", Journal of Climate, [[DOI](https://doi.org/10.1175/JCLI-D-23-0103.1)]. </span> 
 
