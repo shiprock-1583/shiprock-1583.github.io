@@ -21,7 +21,7 @@ repository               : "shiprock-1583/shiprock-1583.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_4451.jpg" # "profile2.png"  #"84143269.jpg"
+  avatar           : "IMG_4452.jpg" # "profile2.png"  #"84143269.jpg"
   name             : "Tarun Verma"
   pronouns         : "Ph.D. (Atmospheric Sciences)"  
   bio              : "Weather, Climate, Numerical Modeling, Machine Learning"
