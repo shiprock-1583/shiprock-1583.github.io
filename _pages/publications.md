@@ -3,14 +3,13 @@ layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
-footer:
-  overlay_image: header.png
 ---
 
 {% include base_path %}
 
 See my [Google Scholar](https://scholar.google.com/citations?user=axe4WfMAAAAJ&hl=en&oi=ao) page and [CV](https://shiprock-1583.github.io/files/CV.pdf) for more information.
 
+<span style="font-size:0.85em;">
 Verma, Tarun, W. Weijer, T. Haine, M. Veneziani, W. Kim, J. Zhang (2024). "Role of ocean circulation changes in the recent increase of Arctic liquid freshwater content.", *Under review in Journal of Climate*.
 
 Kurtakoti, Prajvala, W. Weijer, M. Veneziani,, P. J. Rasch, T. Verma, (2024). "Sea ice and Cloud Processes Mediating Compensation between Atmospheric and Oceanic Meridional Heat Transports across the CMIP6 Preindustrial Control Experiment.", Journal of Climate, [[DOI](https://doi.org/10.1175/JCLI-D-23-0103.1)]
@@ -23,4 +22,4 @@ Hunke, Elizabeth, A. Roberts, G. D’Angelo, T. Verma, M. Chen, J. Dan, J. Urreg
 
 Nadiga, Balu, T. Verma, W. Weijer, N. Urban (2019). "Enhancing skill of initialized decadal predictions using a dynamical model of drift.", Geophysical Research Letters, [[DOI](https://doi.org/10.1029/2019GL084223)]
 
-Verma, Tarun, R. Saravanan, P. Chang, S. Mahajan (2019). "Tropical Pacific ocean dynamical response to short-term sulfate aerosol forcing.", Journal of Climate, [[DOI](https://doi.org/10.1175/JCLI-D-19-0050.1)]
+Verma, Tarun, R. Saravanan, P. Chang, S. Mahajan (2019). "Tropical Pacific ocean dynamical response to short-term sulfate aerosol forcing.", Journal of Climate, [[DOI](https://doi.org/10.1175/JCLI-D-19-0050.1)] </span>
