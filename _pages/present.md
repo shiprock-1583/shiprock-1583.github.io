@@ -9,7 +9,7 @@ author_profile: true
 
 <span style="font-size:0.85em;"> Verma, Tarun, F. Lu, A. Adcroft, “Learning ocean model errors from data assimilation increments.” AMS Annual Meeting, Denver, CO, January, 2023. [[link](https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Paper/421409)] [[pdf](https://shiprock-1583.github.io/files/AMS2023_TarunVerma_noanim.pdf)]. </span> 
 
-<span style="font-size:0.85em;"> Verma, Tarun, W. Weijer, J. Zhang, W. Kim, W. Maslowski, C. Veneziani. “Potential Fram Strait Circulation Feedback Freshens the Arctic Ocean.” 16th Conference on Polar Meteorology and Oceanography, Online, June, 2021. [[pdf](https://shiprock-1583.github.io/files/Polar_AMS_0621_TarunVerma.pdf)]. </span> 
+<span style="font-size:0.85em;"> Verma, Tarun, W. Weijer, J. Zhang, W. Kim, W. Maslowski, C. Veneziani. “Potential Fram Strait Circulation Feedback Freshens the Arctic Ocean.” 16th Conference on Polar Meteorology and Oceanography, Online, June, 2021. [[link](https://ams.confex.com/ams/16Polar/webprogram/Paper387530.html)] [[pdf](https://shiprock-1583.github.io/files/Polar_AMS_0621_TarunVerma.pdf)]. </span> 
 
 <span style="font-size:0.85em;"> Verma, Tarun, W. Weijer, S. Yeager, G. Danabosuglu, “Drift of Arctic freshwater system in CESM initialized decadal prediction system.” 15th Conference on Polar Meteorology and Oceanography, Boulder, CO, May 2019. [[link](https://ams.confex.com/ams/15Polar/meetingapp.cgi/Paper/357842)] [[pdf](https://shiprock-1583.github.io/files/Polar_AMS_TarunVerma_noanim.pdf)]. </span> 
 
