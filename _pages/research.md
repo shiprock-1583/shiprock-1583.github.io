@@ -15,6 +15,10 @@ author_profile: true
 <span style="font-size:0.85em;">As a part of an internal LANL grant sponsored by the Center for Space and Earth Science, I developed a deep-learning model to forecast high-latitude climate variability on seasonal to interannual timescales. The goal was to investigate physical processes providing predictability on different timescales and understand the benefits of using deep learning over traditional statistical approaches. For this purpose, convolutional neural networks predicting subpolar North Atlantic Sea Surface Temperature (SST) from prior SST and upper ocean heat content fields were trained on data from a long preindustrial control simulation with the CESM. The results were compared against autoregressive and (spatially extended) linear inverse models as benchmarks. </span>
 
 ### Climate Extremes and Tropical Ocean Dynamical Response to Sulfate Aerosols  
-![alt text](/images/Picture2.png =100x){: .align-center}
+<p align="center" width="100%">
+    <img width="70%" src="/images/Picture2.png">
+  
+  <em>Transient Atmospheric Response to Sulfate Aerosol Forcing</em>
+</p>
 
 <span style="font-size:0.85em;"> My Ph.D. research at **Texas A&M University** included i) investigating the effect of sea surface temperature and synoptic variability on climate extremes over the continental United States using the Weather Research Forecasting model and ii) investigating aerosols' impact on tropical climate using the hierarchy of CESM simulations. In the first part, I studied the remote effect of SST interannual variability on precipitation and temperature extremes over the United States. The impact of propagating synoptic disturbances on the simulated mean state was also studied by changing the western lateral boundary conditions. The second part was carried out in collaboration with the Oak Ridge National Laboratory. I studied coupled ocean-atmosphere processes over the tropical Pacific and how anthropogenic sulfate aerosols affect them. The possibility of sulfate emissions from Asia as a potential source of seasonal-interannual predictability through its impact on ENSO dynamics was explored in this work. As a part of this work, I performed and analyzed a large ensemble of coupled and uncoupled climate model experiments using CESM. </span>
