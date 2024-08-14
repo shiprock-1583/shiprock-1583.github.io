@@ -22,7 +22,7 @@ author_profile: true
 ### Under Review
 <span style="font-size:0.85em;"> Verma, Tarun, W. Weijer, T. Haine, M. Veneziani, W. Kim, J. Zhang (2024). "Role of ocean circulation changes in the recent increase of Arctic liquid freshwater content.", *Under review in Journal of Climate*. Preprint [[DOI](https://doi.org/10.22541/essoar.172313451.18013979/v1)]. </span> 
 
-<span style="font-size:0.85em;"> D Balwada, R Abernathey, S Acharya et al. (2023). "Learning Machine Learning with Lorenz-96." Preprint. [[PDF](https://d197for5662m48.cloudfront.net/documents/publicationstatus/182343/preprint_pdf/043b7b88437a3e6904fd291d3a6e5f40.pdf)]. </span> 
+<span style="font-size:0.85em;"> D Balwada, R Abernathey, S Acharya et al. (2024). "Learning Machine Learning with Lorenz-96." Preprint. [[PDF](https://d197for5662m48.cloudfront.net/documents/publicationstatus/182343/preprint_pdf/043b7b88437a3e6904fd291d3a6e5f40.pdf)]. </span> 
 
 ### In Preparation
 <span style="font-size:0.85em;"> Verma, Tarun, F. Lu, A. Adcroft, L. Zanna, A. Gnandesikan. 2024. "Deep learning
