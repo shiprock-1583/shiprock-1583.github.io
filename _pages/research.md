@@ -6,10 +6,12 @@ author_profile: true
 ---
 ### Integral Vorticity Balance for Arctic Mediterranean Ocean Circulation
 <p align="center">
- <img width="60%" src="/images/Fig4_abcdef_djf_jja_Lh-Ty_0-400m_iolnormTrue.png">
+ <img width="60%" src="/images/Picture3.png">
     <br>
-    <span style="font-size:0.65em;"><em>Zonal-mean seasonal-mean patterns of OTA, Truth and Predictions.</em> </span>
+    <span style="font-size:0.65em;"><em> (top) Spatial pattern of forcing
+terms in transport-divergence vorticity equation. (middle,bottom) Decadal time evolution integrated over three sub-basins. </em> </span>
 </p>
+<span style="font-size:0.75em;"> Future projections of large-scale ocean circulation in the Arctic Mediterranean (AM) show considerable uncertainty. The steady-state large-scale ocean circulation in the AM is strongly constrained by ocean bathymetry and follows non-local integral balances involving f/H (Coriolis parameter/Ocean depth) contours. In this study, we investigate future changes in ocean circulation and their associated uncertainties by analyzing a form of dynamic vorticity balance across a large ensemble of climate model simulations. We find that the Nordic region experiences stronger forcings relative to the Arctic basin. Further, the surface stress term generally dominates the thermal wind term, and the two compensate each other. We see anomalous negative forcing over CB and GS, and positive forcing over NS+LB, at the end of the 21st century. </span>
 
 ### Deep Learning of Systematic Data Assimilation Increments in the Ocean
 <p align="center">
