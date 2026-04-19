@@ -18,8 +18,6 @@ author_profile: true
 
 <span style="font-size:0.85em;"> Kurtakoti, Prajvala, W. Weijer, M. Veneziani,, P. J. Rasch, T. Verma, (2024). "Sea ice and Cloud Processes Mediating Compensation between Atmospheric and Oceanic Meridional Heat Transports across the CMIP6 Preindustrial Control Experiment.", Journal of Climate, [[DOI](https://doi.org/10.1175/JCLI-D-23-0103.1)]. </span> 
 
-<span style="font-size:0.85em;"> Kurtakoti, Prajvala, W. Weijer, M. Veneziani,, P. J. Rasch, T. Verma, (2024). "Sea ice and Cloud Processes Mediating Compensation between Atmospheric and Oceanic Meridional Heat Transports across the CMIP6 Preindustrial Control Experiment.", Journal of Climate, [[DOI](https://doi.org/10.1175/JCLI-D-23-0103.1)]. </span> 
-
 <span style="font-size:0.85em;"> Zhang, Jiaxu, W. Weijer, M. Steele, W. Cheng, T. Verma, M. Veneziani (2021). "Labrador Sea freshening linked to Beaufort Gyre freshwater release", Nature Comm., [[DOI](https://doi.org/10.1038/s41467-021-21470-3)]. </span> 
 
 <span style="font-size:0.85em;"> Hunke, Elizabeth, A. Roberts, G. D’Angelo, T. Verma, M. Chen, J. Dan, J. Urrego-Blanco, C. Wilson, N. Urban, M. Maltrud (2019). "Diagnosing near-future changes in Arctic sea ice and ocean conditions.", Los Alamos Tech. Report, LA-UR–19-29886, [[PDF](https://www.osti.gov/servlets/purl/1569602)]. </span> 
