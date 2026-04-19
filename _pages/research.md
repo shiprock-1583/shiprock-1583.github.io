@@ -23,7 +23,7 @@ terms in transport-divergence vorticity equation. (middle,bottom) Decadal time e
 
 ### Mechanisms of Arctic Freshwater Variability and its impacts
 <p align="center">
- <img width="60%" src="/images/Picture3.png">
+ <img width="60%" src="/images/F3_spatial_trans_fwlayer_jrafosi_streamplot_merid.pdf">
     <br>
     <span style="font-size:0.65em;"><em>Circulation in the freshwater layer and its changes.</em> </span>
 </p>
