@@ -36,9 +36,6 @@ author_profile: true
 ### Climate Extremes and Tropical Ocean Dynamical Response to Sulfate Aerosols  
 <p align="center">
  <img width="75%" src="/images/Picture2.png">
- <br>
-    <span style="font-size:0.65em;"><em>Transient Atmospheric Response to Sulfate Aerosol Forcing.</em> </span>
- <img width="75%" src="/images/Picture2.png">
     <br>
     <span style="font-size:0.65em;"><em>Transient Atmospheric Response to Sulfate Aerosol Forcing.</em> </span>
 </p>
