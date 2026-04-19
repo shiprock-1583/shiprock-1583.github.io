@@ -4,15 +4,20 @@ permalink: /research/
 title: "Research"
 author_profile: true
 ---
+### Integral Vorticity Balance for Arctic Mediterranean Ocean Circulation
+<p align="center">
+ <img width="60%" src="/images/Fig4_abcdef_djf_jja_Lh-Ty_0-400m_iolnormTrue.png">
+    <br>
+    <span style="font-size:0.65em;"><em>Zonal-mean seasonal-mean patterns of OTA, Truth and Predictions.</em> </span>
+</p>
+
 ### Deep Learning of Systematic Data Assimilation Increments in the Ocean
 <p align="center">
  <img width="60%" src="/images/Fig4_abcdef_djf_jja_Lh-Ty_0-400m_iolnormTrue.png">
     <br>
     <span style="font-size:0.65em;"><em>Zonal-mean seasonal-mean patterns of OTA, Truth and Predictions.</em> </span>
 </p>
-<span style="font-size:0.75em;"> As a part of an industry-funded multi-institutional project, I developed and evaluated a neural network-based technique to correct systematic model errors in an ocean component of the coupled general circulation model. The method relies on the fact that data assimilation (DA) increments in an ensemble-based DA system encapsulate errors arising from deficiencies in fast physics, dynamics, and numerics, which can be learned by neural networks (NNs). In this work, the DA increments are derived from the GFDL’s SPEAR-ODA system (Seamless  System for Prediction and EArth System Research-Ocean Data  Assimilation), which assimilates observed sea surface temperature and vertical profiles of temperature and salinity from the Argo dataset. I trained and evaluated NNs of different sizes and architectures, using predictors including local stratification, shears, and surface fluxes. Neural networks can capture up to 40-50% of the daily variance in temperature increments in the upper 20 m relative to the benchmark’s 20%. Despite being column-local and lacking geographical inputs, networks can reproduce spatial patterns at daily and longer timescales. The patterns consist of corrections to regional dynamical features such as western boundary currents, equatorial undercurrents, bathymetry-related corrections in the Southern Ocean, and warm surface increments over subtropical and midlatitude belts. The figure above compares predicted zonal-mean corrections across the two seasons with the truth and a benchmark. These local, state-dependent neural networks form the basis for data-driven model-error parameterization and bias-correction techniques.
-
- </span>
+<span style="font-size:0.75em;"> As a part of an industry-funded multi-institutional project, I developed and evaluated a neural network-based technique to correct systematic model errors in an ocean component of the coupled general circulation model. The method relies on the fact that data assimilation (DA) increments in an ensemble-based DA system encapsulate errors arising from deficiencies in fast physics, dynamics, and numerics, which can be learned by neural networks (NNs). In this work, the DA increments are derived from the GFDL’s SPEAR-ODA system (Seamless  System for Prediction and EArth System Research-Ocean Data  Assimilation), which assimilates observed sea surface temperature and vertical profiles of temperature and salinity from the Argo dataset. I trained and evaluated NNs of different sizes and architectures, using predictors including local stratification, shears, and surface fluxes. Neural networks can capture up to 40-50% of the daily variance in temperature increments in the upper 20 m relative to the benchmark’s 20%. Despite being column-local and lacking geographical inputs, networks can reproduce spatial patterns at daily and longer timescales. The patterns consist of corrections to regional dynamical features such as western boundary currents, equatorial undercurrents, bathymetry-related corrections in the Southern Ocean, and warm surface increments over subtropical and midlatitude belts. The figure above compares predicted zonal-mean corrections across the two seasons with the truth and a benchmark. These local, state-dependent neural networks form the basis for data-driven model-error parameterization and bias-correction techniques. </span>
 
 ### Mechanisms of Arctic Freshwater Variability and its impacts
 <p align="center">
